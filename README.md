@@ -1,4 +1,4 @@
-![banner](https://github.com/HamimBhai742/HamimBhai742/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
+![banner](https://github.com/HamimBhai742/HamimBhai742/blob/main/GitHub%20Banner%20.png)
 
 <h1 align="center">Hi 👋, I'm Hamim</h1>
 
