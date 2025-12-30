@@ -42,18 +42,9 @@
 
 ---
 
-### 📊 GitHub Stats
-  <div align="center">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=HamimBhai742&show_icons=true&theme=tokyonight&hide_border=true" />
-    &nbsp;&nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=HamimBhai742&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
+## 📊 Contribution Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamimBhai742&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamimBhai742&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -66,3 +57,4 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
