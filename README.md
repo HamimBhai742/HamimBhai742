@@ -42,14 +42,11 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamimBhai742&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamimBhai742&layout=compact&theme=tokyonight&hide_border=true&v=1" />
-</p>
+### 📊 GitHub Stats 
+<div align="center"> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HamimBhai742&show_icons=true&theme=tokyonight&hide_border=true" /> &nbsp;&nbsp;&nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=HamimBhai742&layout=compact&theme=tokyonight&hide_border=true" /> 
+</div>
 
 ---
 
