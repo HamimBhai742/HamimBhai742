@@ -28,8 +28,8 @@
 ## 📊 GitHub Analytics & Commits
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamimBhai742&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamimBhai742&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HamimBhai742&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamimBhai742&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" height="195" alt="Top Languages" />
 </div>
 
 ### 🐍 Contribution Snake Game
